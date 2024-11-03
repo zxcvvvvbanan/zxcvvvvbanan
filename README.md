@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=obsidian&theme=dark"/>
 </span>
 
-## Links
+## Find me Here
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yongjuncho94/">
