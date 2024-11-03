@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark"/>
   <img src="https://skillicons.dev/icons?i=vim&theme=dark"/>
   <img src="https://skillicons.dev/icons?i=docker&theme=dark"/>
-
+  <img src="./icons/proxmox.svg" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=obsidian&theme=dark"/>
 </span>
 
