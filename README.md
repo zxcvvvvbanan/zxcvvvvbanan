@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/yongjuncho94/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
-  <a href="https://www.linkedin.com/in/yongjuncho94/">
+  <a href="https://zxcvvvvbanan.github.io">
     <img src="./icons/personal.svg" width="48" height="48"/>
   </a>
 </p>
