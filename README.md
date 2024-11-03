@@ -1,7 +1,7 @@
 ## Focus Stack:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,express,dotnet,git,postman,powershell,vite,vscode&perline=3&theme=dark" />
+
 </p>
 
 ## Fun Stack:
@@ -13,5 +13,7 @@
 ## Find Me Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  <a href="https://www.linkedin.com/in/yongjuncho94/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
 </p>
