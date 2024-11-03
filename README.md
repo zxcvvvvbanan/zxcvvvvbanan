@@ -24,10 +24,10 @@
 ## Find me Here
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yongjuncho94/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
   <a href="https://zxcvvvvbanan.github.io">
-    <img src="./icons/personal.svg" width="48" height="48"/>
+    <img src="./icons/personal.svg" width="48" height="48">
+  </a>
+  <a href="https://www.linkedin.com/in/yongjuncho94/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark">
   </a>
 </p>
