@@ -1,7 +1,7 @@
 ## Focus Stack:
 
 <p align="left">
-  <img src="./icons/houdini.svg" width="48" height="48"/>
+  <img src="./icons/houdini.svg" width="256" height="256"/>
   <img src="./icons/usd.svg" width="48" height="48"/>
 </p>
 
