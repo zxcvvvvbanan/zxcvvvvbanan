@@ -1,4 +1,4 @@
-## Main Stack:
+## Main Stacks:
 
 <p align="left">
   <img src="./icons/houdini.svg" width="48" height="48"/>
@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=git&theme=dark"/>
 </p>
 
-## Fun Stack:
+## Fun Stacks:
 
 <span align="left">
   <img src="https://skillicons.dev/icons?i=vite&theme=dark"/>
