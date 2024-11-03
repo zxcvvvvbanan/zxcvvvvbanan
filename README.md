@@ -1,6 +1,13 @@
 ## Focus Stack:
 
 <p align="left">
+  <img src="./icons/houdini.svg" width="48" height="48"/>
+  <img src="./icons/usd.svg" width="48" height="48"/>
+</p>
+
+
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=py&theme=dark" />
   <img src="https://skillicons.dev/icons?i=qt&theme=dark" />
   <img src="https://skillicons.dev/icons?i=linux&theme=dark"/>  
