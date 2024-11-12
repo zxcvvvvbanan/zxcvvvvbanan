@@ -5,7 +5,6 @@
   <img src="./icons/usd.svg" width="48" height="48"/>
   <img src="./icons/nuke.svg" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=py&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=qt&theme=dark" />
   <img src="https://skillicons.dev/icons?i=linux&theme=dark"/>  
   <img src="https://skillicons.dev/icons?i=git&theme=dark"/>
 </p>
@@ -17,11 +16,12 @@
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark"/>
   <img src="https://skillicons.dev/icons?i=vim&theme=dark"/>
   <img src="https://skillicons.dev/icons?i=docker&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=qt&theme=dark" />
   <img src="./icons/proxmox.svg" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=obsidian&theme=dark"/>
 </span>
 
-## Find me Here
+## Find me here
 
 <p align="left">
   <a href="https://zxcvvvvbanan.github.io"><img src="./icons/personal.svg" width="48" height="48"></a>
