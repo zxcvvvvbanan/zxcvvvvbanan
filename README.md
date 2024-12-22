@@ -1,16 +1,11 @@
+### 👋 Hi , I'm Yongjun
 
+I’m Yongjun, an VFX Artist currently based at Dexter Studios in Seoul, with a background in Computer Science and Houdini FX. I love create tools and content to make VFX artists lives easier!
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zxcvvvvbanan&show_icons=true&hide=stars&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zxcvvvvbanan&hide=stars&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=zxcvvvvbanan&hide=stars&show_icons=true" />
-</picture>
+### 🔗 My Links
+
+- LinkedIn: [Yongjun Cho]([https://www.linkedin.com/in/yongjuncho94](https://www.linkedin.com/in/yongjuncho94))
+- Personal Site: [Yongjun Cho](https://zxcvvvvbanan.github.io)
 
 ## Main Stacks:
 
@@ -34,10 +29,3 @@
   <img src="./icons/proxmox.svg" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=obsidian&theme=dark"/>
 </span>
-
-## Find me here
-
-<p align="left">
-  <a href="https://zxcvvvvbanan.github.io"><img src="./icons/personal.svg" width="48" height="48"></a>
-  <a href="https://www.linkedin.com/in/yongjuncho94/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"></a>
-</p>
