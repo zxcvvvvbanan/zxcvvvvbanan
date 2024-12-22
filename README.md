@@ -4,7 +4,7 @@ I’m Yongjun, an VFX Artist currently based at Dexter Studios in Seoul, with a 
 
 ### 🔗 My Links
 
-- LinkedIn: [Yongjun Cho]([https://www.linkedin.com/in/yongjuncho94](https://www.linkedin.com/in/yongjuncho94))
+- LinkedIn: [Yongjun Cho](https://www.linkedin.com/in/yongjuncho94)
 - Personal Site: [Yongjun Cho](https://zxcvvvvbanan.github.io)
 
 ## Main Stacks:
